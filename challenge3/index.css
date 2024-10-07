@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    height: 400px;
+    width: 400px;
+}
+.div2{
+    background-color: black;
+    height: 200px;
+    width: 200px;
+}
