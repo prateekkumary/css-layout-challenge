@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    height: 600px;
+}
+.item1{
+    color: white;
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    align-self: end;
+}
+.item2{
+    color: white;
+    height: 200px;
+    width: 200px;
+    background-color: black;
+    align-self: center;
+}
+.item3{
+    color: white;
+    height: 200px;
+    width: 200px;
+    background-color: black;
+}
